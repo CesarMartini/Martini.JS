@@ -1,2 +1,2 @@
-# JavaScript-Heaven
-A collection of Lightweight, Simple and Funtional modular solutions created with Javascript.
+# Martini.JS
+A collection of jightweight, simple and funtional modular solutions created with Javascript by myself.
